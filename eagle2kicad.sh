@@ -31,5 +31,6 @@ while true; do
   esac
 done
 
+echo "Finished!"
 cd $temp_path
 exit 0
