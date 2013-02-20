@@ -8,11 +8,11 @@ This files are released under the license of the GNU Public license Version 2.
 
 Authors:
 --------
-- Dmitri N. Sytov sdn (at) openhardware.ru
-- juergen.messerer (at) freesurf.ch
-- Biglacko biglacko (at) startolj.hu
-- Sergiusz Urbaniak mieszkoman (at) gmx.de
-- Jan Phillip Willmann jantek.willmann (at) gmail.com
+- Dmitri N. Sytov (sdn _at_ openhardware.ru)
+- Jürgen Messerer (juergen.messerer _at_ freesurf.ch)
+- Biglacko (biglacko _at_ startolj.hu)
+- Sergiusz Urbaniak (sergiusz.urbaniak _at_ gmail.com)
+- Jan Phillip Willmann (jantek.willmann _at_ gmail.com)
 
 ToDo:
 -----
