@@ -1,4 +1,4 @@
-eagle2kicad.ulp
+Eagle2Kicad.ulp
 ===============
 
 This ULP is able to convert Eagle libaries to be used with KiCad.
